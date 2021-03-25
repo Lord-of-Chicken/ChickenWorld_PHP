@@ -1,0 +1,103 @@
+
+@charset "UTF-8";
+/* CSS Document */
+body
+{
+	background-color: #f8eeca;
+	!important;
+	list-style-type: none;
+	font-family: 'Averia Libre', cursive;
+	!important;
+    text-align: center;
+    !important;
+    margin: 15px;
+    !important;
+}
+
+nav
+{
+	background-color: #F8EECA;
+	!important;
+	font-family: 'Averia Libre', cursive;
+	!important;
+}
+
+header
+{
+    font-size: 24px !important;
+}
+
+ul
+{
+	font-family: 'Averia Libre', cursive;
+	!important;
+	list-style-type: none;
+}
+
+footer
+{
+	background-color: #F8EECA;
+	!important;
+	font-family: 'Averia Libre', cursive;
+	!important;
+	margin-top: 100px;
+}
+
+#listmenu
+{
+	text-align: left;
+}
+
+#lemenu
+{
+	text-align: center;
+	font-size: 80px !important;
+}
+
+#fname
+{
+	text-align: left !important;
+}
+
+.txtmenu
+{
+	font-style: italic  !important;
+}
+
+.prixmenu
+{
+	font-style: normal  !important;
+	font-weight: bold  !important;
+	line-height: 0px  !important;
+}
+
+#renard
+{
+	max-width: 100%;
+}
+
+img
+{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+
+#buckets {
+    vertical-align: bottom  !important;
+}
+
+section {
+    margin-top: 140px  !important;
+    margin-bottom: 50px  !important;
+}
+article {
+	display: block;
+    margin-left: auto;
+	margin-right: auto 
+}
+
+
+.img-fluid {
+	vertical-align: bottom !important;
+}
